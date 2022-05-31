@@ -1,0 +1,7 @@
+cython==0.29.30
+fastapi==0.78.0
+graphene==3.1
+graphql-server==3.0.0b5
+starlette-graphql==0.2.1
+starlette-graphene3==0.5.1
+uvicorn==0.17.6
